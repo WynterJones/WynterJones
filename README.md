@@ -1,4 +1,4 @@
-### Howdy! Nice to meet ya 👋
+## Howdy! Nice to meet ya 👋
 
 My name is Wynter Jones and I have almost 20 years experience building websites and digital products. Thanks for visiting my github profile.
 
@@ -10,7 +10,7 @@ My name is Wynter Jones and I have almost 20 years experience building websites 
 
 -----
 
-#### Projects
+### Projects
 
 - Create powerful one page lessons with http://onepager.io 
 - Build websites, ad graphics and ebooks with http://Marketlify.com
