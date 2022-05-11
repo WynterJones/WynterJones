@@ -10,7 +10,9 @@ My name is Wynter Jones and I have almost 20 years experience building websites 
 
 -----
 
-- Watch my Gumball3000 Video here  http://tinyurl.com/gball3000
+#### Projects
+
 - Create powerful one page lessons with http://onepager.io 
 - Build websites, ad graphics and ebooks with http://Marketlify.com
 - Learn more about me at my website https://www.wynterjones.com
+- **Bonus** Watch my Gumball3 000 Video here  http://tinyurl.com/gball3000
