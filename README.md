@@ -1,6 +1,8 @@
 ## Howdy! Nice to meet ya 👋
 
-My name is Wynter Jones and I have almost 20 years experience building websites and digital products. Thanks for visiting my github profile.
+My name is Wynter Jones and I have almost 20 years experience building websites and digital products. 
+
+Thanks for visiting my Github profile.
 
 - 🔭 I’m currently working on ... Onepager.io, Marketlify.com and OfferMockups.com
 - 🌱 I’m currently learning ... SupaBase, React, NextJS
