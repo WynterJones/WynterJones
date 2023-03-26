@@ -11,8 +11,6 @@ My name is Wynter Jones and I have almost 20 years experience building websites 
 
 ### Projects
 
-- Get ClickFunnels 2.0 -> https://clickfunnels.com
+- Get ClickFunnels 2.0 -> https://wynterfunnels.com
 - Create powerful one page lessons with http://onepager.io 
-- Build websites, ad graphics and ebooks with http://app.marketlify.com/signup
-- Learn more about me at my website https://www.wynterjones.com
 - **Bonus:** Watch my Gumball 3000 video here  http://tinyurl.com/gball3000
