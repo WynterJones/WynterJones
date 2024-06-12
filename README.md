@@ -3,7 +3,7 @@
 My name is Wynter Jones and I have almost 20 years experience building websites and digital products. 
 
 - 🔭 I’m currently working on ... ClickFunnels 2.0 Stuff! Woohoo!!
-- 🌱 I’m currently learning ... SupaBase, React, NextJS
+- 🌱 I’m currently learning ... AI Music (yuhuh!)
 - 🤔 I’m looking for help with ... Getting more sales! $$$
 - 📫 How to reach me: wynter@monetizedesign.com
 
