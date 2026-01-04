@@ -1,16 +1,11 @@
-## Howdy! Nice to meet ya 👋
+## Parallel & Compound
 
-My name is Wynter Jones and I have almost 20 years experience building websites and digital products. 
+...is the new methodology of 2026. 
 
-- 🔭 I’m currently working on ... ClickFunnels 2.0 Stuff! Woohoo!!
-- 🌱 I’m currently learning ... AI Music (yuhuh!)
-- 🤔 I’m looking for help with ... Getting more sales! $$$
-- 📫 How to reach me: wynter@monetizedesign.com
+Find out more at: https://farmwork.dev
 
------
+My personal workstation: https://code.wynter.ai
 
-### Projects
+Learn more about me: https://wynter.ai
 
-- MedioAI -> https://www.medioai.com
-- Create powerful one page lessons with http://onepager.io 
-- **Bonus:** Watch my Gumball 3000 video here  http://tinyurl.com/gball3000
+Launch your product with a funnel with BarnumPT: https://barnumpt.com
